@@ -1,3 +1,5 @@
 class Learn {
-  
+  void main(){
+    
+  }
 }
